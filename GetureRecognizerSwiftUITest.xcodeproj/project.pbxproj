@@ -11,6 +11,7 @@
 		990E5D772B4AEEE300487807 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990E5D762B4AEEE300487807 /* ContentView.swift */; };
 		990E5D792B4AEEE500487807 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 990E5D782B4AEEE500487807 /* Assets.xcassets */; };
 		990E5D7C2B4AEEE500487807 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 990E5D7B2B4AEEE500487807 /* Preview Assets.xcassets */; };
+		990E5D832B4C145800487807 /* TappableView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 990E5D822B4C145800487807 /* TappableView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		990E5D762B4AEEE300487807 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		990E5D782B4AEEE500487807 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		990E5D7B2B4AEEE500487807 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		990E5D822B4C145800487807 /* TappableView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TappableView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				990E5D742B4AEEE300487807 /* GetureRecognizerSwiftUITestApp.swift */,
 				990E5D762B4AEEE300487807 /* ContentView.swift */,
+				990E5D822B4C145800487807 /* TappableView.swift */,
 				990E5D782B4AEEE500487807 /* Assets.xcassets */,
 				990E5D7A2B4AEEE500487807 /* Preview Content */,
 			);
@@ -139,6 +142,7 @@
 			files = (
 				990E5D772B4AEEE300487807 /* ContentView.swift in Sources */,
 				990E5D752B4AEEE300487807 /* GetureRecognizerSwiftUITestApp.swift in Sources */,
+				990E5D832B4C145800487807 /* TappableView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
